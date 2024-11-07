@@ -1,0 +1,9 @@
+<resources>
+    <!-- Tema Aplikasi -->
+    <style name="Theme.MetricConverter" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Tambahkan pengaturan tema tambahan di sini, jika diperlukan -->
+        <item name="colorPrimary">#EE0000</item>
+        <item name="colorPrimaryDark">#B000B3</item>
+        <item name="colorAccent">#03DAC5</item>
+    </style>
+</resources>
